@@ -1,5 +1,14 @@
 # MRI toolkit
-This is a collection of handy helper funstion for MRI data analysis. Link to medium post: https://zapaishchykova.medium.com/preprocessing-mri-in-python-4d67c291b8f3
+This is a collection of handy helper functions for MRI data analysis. Link to medium post: https://zapaishchykova.medium.com/preprocessing-mri-in-python-4d67c291b8f3
+
+## In summary, your pipeline will look something like this:
+- (optional) Converting from DICOM to nifty ( in case you got "raw" data)
+- Image registration
+- Image rescaling
+- (optional) Skull stripping if you are working with brains
+- (optional) N4 Bias field correction
+- Image normalization, filtering, binning
+- (option) converting from 3D to 2D slices
 
 ## Quick start
 1. Clone repo `git clone`
