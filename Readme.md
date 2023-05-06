@@ -10,7 +10,7 @@ This is a collection of handy helper funstion for MRI data analysis. Link to med
 3. To activate the enviroment:
 `conda activate mri_toolkit`
 
-4. To run the notebook example.ipynb:
+4. To run the example, open notebook example.ipynb:
 `jupyter notebook`
 
 
