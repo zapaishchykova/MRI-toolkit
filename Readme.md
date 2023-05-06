@@ -1,5 +1,5 @@
 # MRI toolkit
-This is a collection of handy helper funstion for MRI data analysis. Link to medium post: 
+This is a collection of handy helper funstion for MRI data analysis. Link to medium post: https://zapaishchykova.medium.com/preprocessing-mri-in-python-4d67c291b8f3
 
 ## Quick start
 1. Clone repo `git clone`
